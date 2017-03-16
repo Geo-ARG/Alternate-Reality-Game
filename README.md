@@ -1,5 +1,5 @@
 # Alternate-Reality-Game
-To facilitate people socialize at certain area and time through something fun
+A game based on React Native and Redux where you can socialize with others at certain area and certain time
 
 ### Endpoints
  
