@@ -11,7 +11,7 @@ A game based on React Native and Redux where you can socialize with others at ce
     * I want to know the app features on home screen
     * I want to know the list of available events and it's detailed informations
     * I want to know the events near my current location
-    * I want to get information about the achievement of the events that I already completed
+    * I want to get information about the list of events that I already completed
     * I want to know the list of quests in the event that I need to accomplished in order to complete the event
     * I want to know the current progress of the event that I joined, so I know how far I am until it's finished
     * I can find another players nearby who also participate in same event, so I can ask and get help from them
@@ -26,8 +26,7 @@ A game based on React Native and Redux where you can socialize with others at ce
 | /auth/facebook       | POST   | Register user using facebookOauth                              |
 | /auth/users/:id      | GET    | Get user's data by userId                                      |
 | /api/events          | GET    | Get event list sorted by time                                  |
-| /api/maps            | GET    | Get event list viewed through Google Map                       |
-| /api/scan            | GET    | Get list of nearby users and events                            |
+| /api/scan            | GET    | Get list of nearby users                                       |
 | /api/location        | POST   | Post user's location                                           |
 | /api/verification    | POST   | Verificate data that submitted by user after completing a quest|
 | /api/admin/events    | GET    | Show event list sorted by time for admin purpose               |
