@@ -3,20 +3,20 @@ A game based on React Native and Redux where you can socialize with others at ce
 
 ## User Stories
 * Game Master
-    * I want to create event for public to join
-    * I can create one or more quest on my event and set its reward/points
-    * I can verify that users accomplish the quest
+    * I can create an event to make the public come and interact with others and set it's rewards
+    * I can create one or more quests in the event
+    * I can verify whenever users accomplish the quest (or event)
 * User
-    * I can login to this app using my Facebook or Google+ account
-    * I want to know what this app can do at home screen so I can use this app
-    * I want to get available event and its detailed information like date, location and it reward, in one view
-    * I want to get available event near my current location so I can immediately join it
-    * I want to get information about my achievement based of my previous event so I can brag about it
-    * I want to know my current progress on event that I joined, so I can continue until finish
-    * I want to know step by step quest so I can complete the event without feeling confused
-    * I can find another players nearby that also participate in same event, so I can socialize and get help
-    * I want to get notified when I enter the event location
-    * I want to get notified when another players on certain radius around me
+    * I can login to the app using my Facebook or Google+ account
+    * I want to know the app features on home screen
+    * I want to know the list of available events and it's detailed informations
+    * I want to know the events near my current location
+    * I want to get information about the achievement of the events that I already completed
+    * I want to know the list of quests in the event that I need to accomplished in order to complete the event
+    * I want to know the current progress of the event that I joined, so I know how far I am until it's finished
+    * I can find another players nearby who also participate in same event, so I can ask and get help from them
+    * I want to get notified whenever I enter an event
+    * I want to get notified whenever another players are around me
 
 ### Endpoints
  
