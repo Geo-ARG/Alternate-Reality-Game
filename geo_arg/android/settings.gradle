@@ -1,0 +1,3 @@
+rootProject.name = 'geo_arg'
+
+include ':app'
