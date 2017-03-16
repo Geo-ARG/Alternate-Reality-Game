@@ -18,6 +18,8 @@ To facilitate people socialize at certain area and time through something fun
 | /api/admin/events/:id| Delete |                 |
 
 ### Model
+```
 Users --> username, score, eventId(achievements), role
 Events --> eventTitle, date, location, questId, rewards, description
 Quests --> questTitle, tasks 
+```
