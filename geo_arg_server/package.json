@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "geo_arg_server",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "body-parser": "~1.15.2",
-    "chai": "^3.5.0",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.1",
     "debug": "~2.2.0",
@@ -21,5 +20,10 @@
     "psql": "0.0.1",
     "sequelize": "^3.30.2",
     "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "nodemon": "^1.11.0"
   }
 }
