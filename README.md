@@ -35,9 +35,7 @@ A game based on React Native and Redux where you can socialize with others at ce
 | /api/admin/events/:id| Delete | Delete an event by eventId                                     |
 
 ### Models
-```
-Users --> username, role, locationId, score, eventId 
-Events --> eventTitle, description, date, location, rewards, questId
-Quests --> questTitle, task
-Locations --> latitude, longitude, userId
-```
+
+
+
+
