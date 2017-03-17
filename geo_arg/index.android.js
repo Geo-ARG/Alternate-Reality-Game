@@ -9,27 +9,38 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  Button,
+  Alert
 } from 'react-native';
 
+import Auth0Lock from 'react-native-lock';
+var credentials = require('./auth0-credentials');
+var lock = new Auth0Lock(credentials);
+
 export default class geo_arg extends Component {
+  loginform(){
+    //  Alert.alert('Button has been pressed!');
+    lock.show()
+  }
+
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.android.js
-        </Text>
-        <Text style={styles.instructions}>
-          Double tap R on your keyboard to reload,{'\n'}
-          Shake or press menu button for dev menu
-        </Text>
+        <Button onPress={this.loginform}
+          title="login"
+        />
       </View>
     );
   }
 }
+
+
+
+
 
 const styles = StyleSheet.create({
   container: {
@@ -42,12 +53,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
+  }
 });
 
 AppRegistry.registerComponent('geo_arg', () => geo_arg);
