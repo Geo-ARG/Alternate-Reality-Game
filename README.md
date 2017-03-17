@@ -36,7 +36,7 @@ A game based on React Native and Redux where you can socialize with others at ce
 
 ### Models
 ```
-Users --> username, role, location, score, eventId 
+Users --> username, role, locationId, score, eventId 
 Events --> eventTitle, description, date, location, rewards, questId
 Quests --> questTitle, task
 Locations --> latitude, longitude, userId
