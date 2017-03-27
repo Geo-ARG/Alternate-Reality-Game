@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_bar_country_search.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_bar_country_search.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_title_lock.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_title_lock.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_small_social_list.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_small_social_list.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_enterprise_login.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_enterprise_login.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_view_phone_fied.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_view_phone_fied.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_webview_action_bar.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.17.1/res/layout/com_auth0_webview_action_bar.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_activity_web_view.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.17.1/res/layout/com_auth0_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_activity_lock_passwordless.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_activity_lock_passwordless.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_magic_link_login.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_magic_link_login.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_database_sign_up.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_database_sign_up.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_loading.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_loading.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_database_login.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_database_login.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_request_code_email.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_request_code_email.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_social.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_social.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_social_sign_up.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_social_sign_up.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_social_db.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_social_db.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_activity_country_code.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_activity_country_code.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_in_progress.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_in_progress.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_request_code_sms.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_request_code_sms.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_item_social_big.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_item_social_big.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_db_login_form.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_db_login_form.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_database_change_password.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_database_change_password.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_activity_lock.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_activity_lock.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_item_country_code.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_item_country_code.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_passcode_login.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_passcode_login.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_db_mfa_code_form.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_db_mfa_code_form.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_fragment_sign_up_form.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_fragment_sign_up_form.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_item_social_small.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/res/layout/com_auth0_item_social_small.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/com_auth0_passwordless_fragment_invalid_link.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/res/layout/com_auth0_passwordless_fragment_invalid_link.xml"
+    },
+    {
+        "merged": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_material.xml"
+    }
+]

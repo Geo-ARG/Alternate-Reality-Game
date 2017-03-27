@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_e1db1a8821c481292d3bc12ee93d88e8d312d7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_cc445eb2c40f1df2c324da564771252adeee2bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.1/b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c/jackson-core-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.1_8c95337269e48bc9c2c73427ad6a9b03a42bbabc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/otto-1.3.5_7a6d221dc7987fb150b580379b76d4df73f4185a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.1/f07c773f7b3a03c3801d405cadbdc93f7548e321/jackson-databind-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f07c773f7b3a03c3801d405cadbdc93f7548e321">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.1_b959b53ebbfa7b9279ca797972b1c03859d30620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_78b589e981b484fef43c581b0ab98bd000345097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_3423bedb8d11635be9c4f667b680964c2fade21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/geo_arg_mobile/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="46b464c1c12ded37312797cdfc7823ffb1dca3cc">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/geo_arg_mobile-react-native-maps-unspecified_59456273f6c9d78bc0121a01c30e695fdd389d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_684d9d12fc544e710170841751f4e622efc17e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_38a8c5c12934f6821d6a555c879015a7e590becf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock-passwordless/1.17.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a30bb4f8d1df3d73a4d923cf3e7d3a09e8bc4be1">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.auth0.android-lock-passwordless-1.17.1_385619213661e729233f8f47bb4bea308333a310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_34e091e526e4cb1d10d6c7e120cb76e069f8180d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_e0af16afaa1c1b9b001685ce1aa273d66391366d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c0a586d067c5f95faaa605e42fff9d6954a36af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_19076e39d80c93f1325254e74b4b0e85f2f04fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/geo_arg_mobile/react-native-lock/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="921cb335c21f148e09cd59f6afb9f1ae58caa03c">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/geo_arg_mobile-react-native-lock-unspecified_6ca55f907455c311484d3cb806e5b7b6c13bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_fd226c6d9bd235cede6d60af2d8989d98be724d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_49fe65cb6067d25760773cd7c399c9d47849299a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_2c93ceeb0562009a837681d5d59a78be940a3146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.hannesdorfmann.smoothprogressbar/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.smoothprogressbar-library-1.0.0_088874d520b5728062d0fc180bb467e358a7b1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.0_7973e59e82b3c942d539398cd2759dd6586757b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9d0abbcb065476f0b9204ecb06dc87aaa1e6d835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9e7434328b7b6aaf6b99f66e53651cd111e39c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_4bde14f5848c073b0f73f90628e62ce35ec70991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-gif-0.12.0_1b12abd094b46813253fca6371ae971d5a2db88e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1f4a6c10131b9ee00e386fb805c3fb6bf124b567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/core/1.17.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c48406906eb60f9e8dc5a8c36ccf6e9ece3ed2bf">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.auth0.android-core-1.17.1_f51b7870eab5dcebd382fccda70b44a1c0b427a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_cd85dece1fed99f487171f0cba4c59ac56abcb37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_e9acf426f292c20e4539519ddef8f39be1fbf0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/geo_arg_mobile/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/geo_arg_mobile-react-native-vector-icons-unspecified_57f0927d4dce445d84dccc037ab4ea8c652c977e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bdd7c07c9eb7d1e39d65ab84826d92797c0cf455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_9d1e1ecaa10fb0722e078bec7502b94f3a458a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/geo_arg_mobile/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8248dc8240f51ffe0bbb5bd38af9523e337252a9">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/geo_arg_mobile-react-native-camera-unspecified_e8b99cfdf9f05eb8e177fd7c5c3adaf38924de10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.12.0_0e4483de9aa301a832421aea7a18b1d8b783ff10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.17.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2bb149f14be461fd112c02b4f0203e1dfbfa3f9">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.auth0.android-identity-core-1.17.1_3a945fd6e8eee69f9bbe92bb979fa0ddb5e1371b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.auth0.android/lock/1.17.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b3021d0c0a930de3055c15aab22a77d23aeb1b6">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.auth0.android-lock-1.17.1_fa453637d886ccb38325d0ec0579db314927a4fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_33cda8766a34a56f979b26641aaf9043eb11b767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.12.0_c069e3fa32371f5a414f998b709cbcfbc1a76929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_f146f9da0b63a11f7bf66dabb33933363c1ccd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_8718d5c7d821ed854198fc794c809eb7c447fdb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_abd0f92a74e52045ebdb9f53ef7e3120b6f50132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_61178eea6ce3de74fcf7402f7d9070c54424e231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_6805615303b8e64a1c2a8d912118bdd460f39a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-0.12.0_f4c1427077367b88fbbd6cc60fe95bd49231ed6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_c03120ef1a55149e359a2b58e2f72da04658ade8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.1/55605135bd7b836612e0bba7037c9669f6ccf89f/jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.1_dcfde6b99d338ff35bf8904cd3ef62052ccaa7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kaioo/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/kaioo/Data/fadlykayo/hacktiv8/geo_arg_mobile/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_db44c10281e66d67d73ab0b126e8cfe4080ca224.jar" />
+    </item>
+
+</items>

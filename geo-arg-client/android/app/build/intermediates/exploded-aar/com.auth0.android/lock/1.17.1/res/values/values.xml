@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock.Android/lock/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="com_auth0_credential_box_background">@android:color/transparent</color>
+    <color name="com_auth0_credential_box_border">#ccc</color>
+    <color name="com_auth0_credential_field_background">@android:color/transparent</color>
+    <color name="com_auth0_credential_field_cursor">#ffb3b5b6</color>
+    <color name="com_auth0_credential_field_error">#c00</color>
+    <color name="com_auth0_credential_field_hint">#ccc</color>
+    <color name="com_auth0_lock_background">#ffffffff</color>
+    <color name="com_auth0_lock_blue">#16214d</color>
+    <color name="com_auth0_lock_blue_light">#44c7f4</color>
+    <color name="com_auth0_lock_grey">#d0d2d3</color>
+    <color name="com_auth0_lock_red">#eb5424</color>
+    <color name="com_auth0_primary_button_disabled_background">#153a4d</color>
+    <color name="com_auth0_primary_button_highlighted_background">#0A1024</color>
+    <color name="com_auth0_primary_button_normal_background">#15204D</color>
+    <color name="com_auth0_primary_button_text">@android:color/white</color>
+    <color name="com_auth0_secondary_button_border">#f0f0f0</color>
+    <color name="com_auth0_secondary_button_disabled_background">@android:color/transparent</color>
+    <color name="com_auth0_secondary_button_normal_background">@android:color/transparent</color>
+    <color name="com_auth0_secondary_button_text">#4d4d4d</color>
+    <color name="com_auth0_social_button_icon_background">#46000000</color>
+    <color name="com_auth0_title_lock_icon_background">#f0f0f0</color>
+    <declare-styleable name="CredentialField"><attr format="reference" name="com_auth0_normalIconDrawable"/><attr format="reference" name="com_auth0_errorIconDrawable"/><attr format="color" name="com_auth0_errorColor"/></declare-styleable>
+    <declare-styleable name="Lock.Theme"><attr format="reference" name="Auth0.BackgroundImageStyle"/><attr format="reference" name="Auth0.PrimaryButtonStyle"/><attr format="reference" name="Auth0.SecondaryButtonStyle"/><attr format="reference" name="Auth0.CredentialField"/><attr format="reference" name="Auth0.CredentialField.Username"/><attr format="reference" name="Auth0.CredentialField.Email"/><attr format="reference" name="Auth0.CredentialField.Password"/><attr format="reference" name="Auth0.CredentialBox"/><attr format="reference" name="Auth0.Message"/><attr format="reference|color" name="Auth0.Background"/><attr format="reference" name="Auth0.Title.Text"/><attr format="reference" name="Auth0.Title.Icon"/><attr format="color" name="Auth0.Separator.Color"/><attr format="reference" name="Auth0.GridView.Small"/></declare-styleable>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock.Android/lock/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="com_auth0_activity_horizontal_margin">16dp</dimen>
+    <dimen name="com_auth0_activity_vertical_margin">16dp</dimen>
+    <dimen name="com_auth0_credential_box_border_width">1dp</dimen>
+    <dimen name="com_auth0_credential_box_corner_radius">4dp</dimen>
+    <dimen name="com_auth0_credential_field_font_size">15sp</dimen>
+    <dimen name="com_auth0_credential_field_height">50dp</dimen>
+    <dimen name="com_auth0_credential_field_icon_right_padding">8dp</dimen>
+    <dimen name="com_auth0_credential_field_padding">18dp</dimen>
+    <dimen name="com_auth0_credential_field_vertical_padding">5dp</dimen>
+    <dimen name="com_auth0_db_reset_password_message_width">230dp</dimen>
+    <dimen name="com_auth0_db_reset_password_secondary_padding">10dp</dimen>
+    <dimen name="com_auth0_lock_vertical_margin">10dp</dimen>
+    <dimen name="com_auth0_primary_button_corner_radius">5dp</dimen>
+    <dimen name="com_auth0_primary_button_height">55dp</dimen>
+    <dimen name="com_auth0_primary_button_progress_size">30dp</dimen>
+    <dimen name="com_auth0_primary_button_text_size">13sp</dimen>
+    <dimen name="com_auth0_secondary_button_border_width">1dp</dimen>
+    <dimen name="com_auth0_secondary_button_corner_radius">15dp</dimen>
+    <dimen name="com_auth0_secondary_button_height">30dp</dimen>
+    <dimen name="com_auth0_secondary_button_margin_bottom">5dp</dimen>
+    <dimen name="com_auth0_secondary_button_text_size">10sp</dimen>
+    <dimen name="com_auth0_secondary_button_width">60dp</dimen>
+    <dimen name="com_auth0_social_button_corner_radius">5dp</dimen>
+    <dimen name="com_auth0_social_button_icon_label_size">50dp</dimen>
+    <dimen name="com_auth0_social_button_icon_size">16sp</dimen>
+    <dimen name="com_auth0_social_button_text_padding_left">10dp</dimen>
+    <dimen name="com_auth0_social_button_text_size">13sp</dimen>
+    <dimen name="com_auth0_social_db_form_padding_top">45dp</dimen>
+    <dimen name="com_auth0_social_grid_view_height">60dp</dimen>
+    <dimen name="com_auth0_social_grid_view_item_spacing_vertical">10dp</dimen>
+    <dimen name="com_auth0_social_list_item_interspace">5dp</dimen>
+    <dimen name="com_auth0_social_list_padding_top">25dp</dimen>
+    <dimen name="com_auth0_title_lock_image_horizontal_padding">15dp</dimen>
+    <dimen name="com_auth0_title_lock_image_size">60dp</dimen>
+    <dimen name="com_auth0_title_lock_image_vertical_padding">17dp</dimen>
+    <dimen name="com_auth0_title_lock_margin_top">36dp</dimen>
+    <dimen name="com_auth0_title_lock_text_margin_top">5dp</dimen>
+    <dimen name="com_auth0_title_lock_text_size">24sp</dimen>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock.Android/lock/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="com_auth0_social_grid_max_elements">5</integer>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock.Android/lock/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="com_auth0_application_load_failed_message">Couldn\'t obtain application configuration. Please check your Auth0 configuration and try again.</string>
+    <string name="com_auth0_application_load_failed_title">Failed to load application information</string>
+    <string name="com_auth0_application_load_no_connection_message">No Internet connection found. Please check your Internet configuration and try again.</string>
+    <string name="com_auth0_application_retry_button_text">Retry</string>
+    <string name="com_auth0_auth0_lock">Lock</string>
+    <string name="com_auth0_database_change_password_title">Reset Password</string>
+    <string name="com_auth0_database_login_title">Login</string>
+    <string name="com_auth0_database_signup_title">Sign Up</string>
+    <string name="com_auth0_db_cancel_button_text">CANCEL</string>
+    <string name="com_auth0_db_change_password_btn_text">SEND</string>
+    <string name="com_auth0_db_change_password_error_message">There was an error processing the reset password.</string>
+    <string name="com_auth0_db_change_password_error_title">Could\'nt change your password</string>
+    <string name="com_auth0_db_change_password_message_success">We\'ve just sent you an email to reset your password.</string>
+    <string name="com_auth0_db_change_password_title_success">Reset Password</string>
+    <string name="com_auth0_db_enterprise_login_message">Please enter your corporate credentials at %s</string>
+    <string name="com_auth0_db_login_btn_text">ACCESS</string>
+    <string name="com_auth0_db_login_error_message">There was an error processing the sign in.</string>
+    <string name="com_auth0_db_login_error_title">There was an error logging in</string>
+    <string name="com_auth0_db_login_invalid_credentials_error_message">Wrong email or password.</string>
+    <string name="com_auth0_db_login_invalid_mfa_code_message">The MFA code you entered is invalid or has expired.</string>
+    <string name="com_auth0_db_login_unauthorized_error_message">User is blocked.</string>
+    <string name="com_auth0_db_reset_password_button_text">RESET PASSWORD</string>
+    <string name="com_auth0_db_reset_password_by_link_title_message">Please enter your email. We will send you the link to the change password form.</string>
+    <string name="com_auth0_db_reset_password_invalid_repeat_password_message">The passwords you entered must match. Please try again.</string>
+    <string name="com_auth0_db_signup_btn_text">SIGN UP</string>
+    <string name="com_auth0_db_signup_button_text">SIGN UP</string>
+    <string name="com_auth0_db_signup_error_message">There was an error processing the sign up.</string>
+    <string name="com_auth0_db_signup_error_title">There was an error signing up</string>
+    <string name="com_auth0_db_signup_title_message">Please enter your email and password</string>
+    <string name="com_auth0_db_signup_user_already_exists_error_message">The user already exists.</string>
+    <string name="com_auth0_db_single_sign_on_button">LOGIN WITH %s</string>
+    <string name="com_auth0_email_placeholder">Email</string>
+    <string name="com_auth0_enterprise_no_connection_message">There was no connection configured for the domain</string>
+    <string name="com_auth0_invalid_code_message">You must enter a valid code.</string>
+    <string name="com_auth0_invalid_credentials_message">The email and password you entered are invalid. Please try again.</string>
+    <string name="com_auth0_invalid_credentials_title">Invalid credentials</string>
+    <string name="com_auth0_invalid_email_message">The email you entered is invalid. Please try again.</string>
+    <string name="com_auth0_invalid_password_message">The password you entered is invalid. Please try again.</string>
+    <string name="com_auth0_invalid_username_credentials_message">The username and password you entered are invalid. Please try again.</string>
+    <string name="com_auth0_invalid_username_message">The username you entered is invalid. Please try again.</string>
+    <string name="com_auth0_loading_title"/>
+    <string name="com_auth0_mfa_code_message">Please enter a verification code from\n your code generator application.</string>
+    <string name="com_auth0_mfa_code_placeholder">Verification Code</string>
+    <string name="com_auth0_mfa_code_title_enter_code">Two Step Verification</string>
+    <string name="com_auth0_new_password_placeholder">New Password</string>
+    <string name="com_auth0_ok_btn_text">OK</string>
+    <string name="com_auth0_password_placeholder">Password</string>
+    <string name="com_auth0_repeat_password_placeholder">Confirm New Password</string>
+    <string name="com_auth0_social_db_title">Login</string>
+    <string name="com_auth0_social_only_title">Login</string>
+    <string name="com_auth0_social_separator">OR</string>
+    <string name="com_auth0_social_signup_separator">Or please enter your email and password</string>
+    <string name="com_auth0_sso_text">SINGLE SIGN-ON ENABLED</string>
+    <string name="com_auth0_username_email_placeholder">Username/Email</string>
+    <string name="com_auth0_username_placeholder">Username</string>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock.Android/lock/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Lock.Theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="spbStyle">@style/Lock.Theme.ProgressBarHorizontal</item>
+        <item name="Auth0.PrimaryButtonStyle">@style/Lock.Theme.PrimaryButton</item>
+        <item name="Auth0.SecondaryButtonStyle">@style/Lock.Theme.SecondaryButton</item>
+        <item name="Auth0.CredentialField.Email">@style/Lock.Theme.CredentialField.Email</item>
+        <item name="Auth0.CredentialField.Password">@style/Lock.Theme.CredentialField.Password</item>
+        <item name="Auth0.CredentialField.Username">@style/Lock.Theme.CredentialField.Username</item>
+        <item name="Auth0.CredentialBox">@style/Lock.Theme.CredentialBox</item>
+        <item name="Auth0.Message">@style/Lock.Theme.Message</item>
+        <item name="Auth0.Background">@color/com_auth0_lock_background</item>
+        <item name="Auth0.Title.Icon">@style/Lock.Theme.Title.Icon</item>
+        <item name="Auth0.Title.Text">@style/Lock.Theme.Title.Text</item>
+        <item name="Auth0.Separator.Color">@color/com_auth0_credential_box_border</item>
+        <item name="Auth0.CredentialField">@style/Lock.Theme.CredentialField</item>
+        <item name="Auth0.GridView.Small">@style/Lock.Theme.Social.GridView</item>
+    </style>
+    <style name="Lock.Theme.CredentialBox">
+        <item name="android:background">@drawable/com_auth0_box_credential_background</item>
+    </style>
+    <style name="Lock.Theme.CredentialField" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/com_auth0_credential_field_height</item>
+        <item name="android:textSize">@dimen/com_auth0_credential_field_font_size</item>
+        <item name="android:textColorHint">@color/com_auth0_credential_field_hint</item>
+        <item name="android:paddingLeft">@dimen/com_auth0_credential_field_padding</item>
+        <item name="android:paddingRight">@dimen/com_auth0_credential_field_padding</item>
+        <item name="android:paddingBottom">@dimen/com_auth0_credential_field_vertical_padding</item>
+        <item name="android:paddingTop">@dimen/com_auth0_credential_field_vertical_padding</item>
+        <item name="android:drawablePadding">@dimen/com_auth0_credential_field_icon_right_padding</item>
+        <item name="android:background">@color/com_auth0_credential_field_background</item>
+        <item name="android:textCursorDrawable">@drawable/com_auth0_cursor</item>
+    </style>
+    <style name="Lock.Theme.CredentialField.Email" parent="Lock.Theme.CredentialField">
+        <item name="com_auth0_normalIconDrawable">@drawable/com_auth0_ic_email</item>
+        <item name="com_auth0_errorIconDrawable">@drawable/com_auth0_ic_email_error</item>
+    </style>
+    <style name="Lock.Theme.CredentialField.Password" parent="Lock.Theme.CredentialField">
+        <item name="com_auth0_normalIconDrawable">@drawable/com_auth0_ic_lock</item>
+        <item name="com_auth0_errorIconDrawable">@drawable/com_auth0_ic_lock_error</item>
+    </style>
+    <style name="Lock.Theme.CredentialField.Username" parent="Lock.Theme.CredentialField">
+        <item name="com_auth0_normalIconDrawable">@drawable/com_auth0_ic_person</item>
+        <item name="com_auth0_errorIconDrawable">@drawable/com_auth0_ic_person_error</item>
+    </style>
+    <style name="Lock.Theme.Message" parent="TextAppearance.AppCompat.Small">
+        <item name="android:layout_marginBottom">@dimen/com_auth0_lock_vertical_margin</item>
+    </style>
+    <style name="Lock.Theme.PrimaryButton" parent="Widget.AppCompat.ActionButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/com_auth0_primary_button_height</item>
+        <item name="android:textColor">@color/com_auth0_primary_button_text</item>
+        <item name="android:background">@drawable/com_auth0_btn_primary_background</item>
+        <item name="android:textSize">@dimen/com_auth0_primary_button_text_size</item>
+    </style>
+    <style name="Lock.Theme.ProgressBarHorizontal">
+        <item name="spb_color">@color/com_auth0_lock_blue_light</item>
+    </style>
+    <style name="Lock.Theme.SecondaryButton" parent="Widget.AppCompat.ActionButton">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/com_auth0_secondary_button_text</item>
+        <item name="android:layout_height">@dimen/com_auth0_secondary_button_height</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/com_auth0_secondary_button_text_size</item>
+        <item name="android:background">@drawable/com_auth0_btn_secondary_background</item>
+        <item name="android:layout_marginBottom">@dimen/com_auth0_secondary_button_margin_bottom</item>
+    </style>
+    <style name="Lock.Theme.Social"/>
+    <style name="Lock.Theme.Social.GridView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/com_auth0_social_grid_view_height</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:stretchMode">columnWidth</item>
+        <item name="android:verticalSpacing">@dimen/com_auth0_social_grid_view_item_spacing_vertical</item>
+    </style>
+    <style name="Lock.Theme.Title"/>
+    <style name="Lock.Theme.Title.Icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/com_auth0_title_lock_margin_top</item>
+        <item name="android:src">@drawable/com_auth0_ic_people</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/com_auth0_icon_background</item>
+        <item name="android:cropToPadding">false</item>
+        <item name="android:paddingLeft">@dimen/com_auth0_title_lock_image_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/com_auth0_title_lock_image_horizontal_padding</item>
+        <item name="android:paddingBottom">@dimen/com_auth0_title_lock_image_vertical_padding</item>
+        <item name="android:paddingTop">@dimen/com_auth0_title_lock_image_vertical_padding</item>
+    </style>
+    <style name="Lock.Theme.Title.Text" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">@dimen/com_auth0_title_lock_text_size</item>
+        <item name="android:layout_marginTop">@dimen/com_auth0_title_lock_text_margin_top</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,317 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "height": 1334,
+          "width": 750,
+        },
+      ]
+    }
+  >
+    <RCTScrollView
+      alwaysBounceHorizontal={false}
+      alwaysBounceVertical={false}
+      automaticallyAdjustContentInsets={false}
+      bounces={false}
+      contentContainerStyle={
+        Array [
+          Object {
+            "position": "absolute",
+          },
+          undefined,
+          Object {
+            "height": 0,
+            "width": 0,
+          },
+        ]
+      }
+      contentInset={
+        Object {
+          "top": 0,
+        }
+      }
+      horizontal={true}
+      onMomentumScrollEnd={[Function]}
+      onScrollBeginDrag={[Function]}
+      pagingEnabled={true}
+      showsHorizontalScrollIndicator={false}
+    >
+      <View>
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+        <Image
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          hitSlop={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          source={1}
+          style={
+            Object {
+              "flex": 1,
+              "height": "100%",
+              "width": "100%",
+            }
+          }
+          testID={undefined}
+        />
+      </View>
+    </RCTScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0,0,0,.5)",
+        "height": 1334,
+        "justifyContent": "center",
+        "position": "absolute",
+        "width": 750,
+      }
+    }
+  >
+    <Image
+      source={1}
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#cc6600",
+            "borderRadius": 10,
+            "justifyContent": "center",
+            "margin": 10,
+            "paddingBottom": 10,
+            "paddingLeft": 30,
+            "paddingRight": 30,
+            "paddingTop": 10,
+          },
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "white",
+                "fontSize": 60,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Material Icons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 25,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          PLAY!
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

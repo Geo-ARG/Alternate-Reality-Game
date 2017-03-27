@@ -1,0 +1,23 @@
+language: node_js
+node_js:
+  - "6"
+services:
+  - postgresql
+addons:
+  postgresql: "9.2"
+before_script:
+  - /usr/bin/psql -c 'create database geo_arg_production;' -U postgres
+  - sudo apt-add-repository -y ppa:ubuntugis/ubuntugis-unstable
+  - sudo apt-get update
+  - sudo apt-get install -qq libgeos-dev libproj-dev
+  - /usr/bin/psql -d geo_arg_production -U postgres -c "create extension postgis"
+  - npm install
+script:
+  - /usr/bin/psql --version
+  - /usr/bin/psql -d geo_arg_production -c 'SELECT PostGIS_version();' -U postgres
+  - npm run prestart
+  - npm test
+notifications:
+  email: false
+env:
+  - NODE_ENV=production
