@@ -1,6 +1,8 @@
 # Alternate-Reality-Game
 A game based on React Native and Redux where you can socialize with others at certain area and certain time
 
+![Profile](https://raw.githubusercontent.com/Geo-ARG/Alternate-Reality-Game/development/src/assets/GeoArg.png)
+
 ## User Stories
 * Game Master
     * I can create an event to make the public come and interact with others and set it's rewards
