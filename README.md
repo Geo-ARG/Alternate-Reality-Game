@@ -1,5 +1,7 @@
 # Alternate-Reality-Game
-A game based on React Native and Redux where you can socialize with others at certain area and certain time
+A game based on geolocation where you can socialize with others
+
+Frameworks/Libraries used: React, Redux, NodeJs, ExpressJs, Sequelize, PostgreSQL, Postgis, Mocha, Chai, Jest, Travis, Native Base, Semantic UI
 
 ![Profile](https://raw.githubusercontent.com/Geo-ARG/Alternate-Reality-Game/development/geo-arg-client/src/assets/GeoArg.png)
 
